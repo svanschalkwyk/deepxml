@@ -5,7 +5,7 @@ import os
 import tools.surrogate_mapping as surrogate_mapping
 from main import main
 import shutil
-import tools.evaluate as evalaute_one
+import tools.evaluate as evaluate_one
 import tools.evaluate_ensemble as evaluate_ens
 
 
